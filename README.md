@@ -1,3 +1,3 @@
 # pehla-pehla-project
-virgin mazhar tries his hands on github
-It's getting hot in here
+Virgin Mazhar tries his hands on Github.
+It's getting hot in here.
